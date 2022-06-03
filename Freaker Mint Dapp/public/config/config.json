@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1302d5B231556e3CfB3161D1c8DaC9334b34a2af",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1302d5b231556e3cfb3161d1c8dac9334b34a2af",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "FreakerNewNFT",
+  "SYMBOL": "FKR",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/freaker-v2",
+  "SHOW_BACKGROUND": true
+}
